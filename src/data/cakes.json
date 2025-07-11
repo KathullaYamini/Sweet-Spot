@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Delight",
+    "price": 450,
+    "image": "/images/chocolate.webp",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Berry",
+    "price": 400,
+    "image": "/images/vanilla.jpg",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Red Velvet",
+    "price": 500,
+    "image": "/images/redvelvet.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Biscoff",
+    "price": 700,
+    "image": "/images/biscoff.jpg",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Blue Velvet",
+    "price": 400,
+    "image": "/images/bluevelvet.jpg",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "name": "Cheese Cake",
+    "price": 350,
+    "image": "/images/cheesecake.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "name": "Hazelnut Heaven",
+    "price": 520,
+    "image": "/images/image1.webp",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Strawberry Swirl",
+    "price": 430,
+    "image": "/images/image2.webp",
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "Oreo Overload",
+    "price": 490,
+    "image": "/images/image3.webp",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "name": "Caramel Crunch",
+    "price": 470,
+    "image": "/images/image4.webp",
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "name": "Mint Chocolate Chip",
+    "price": 510,
+    "image": "/images/image5.webp",
+    "rating": 4.0
+  },
+  {
+    "id": 12,
+    "name": "Lemon Zest",
+    "price": 395,
+    "image": "/images/image6.webp",
+    "rating": 3.9
+  },
+  {
+    "id": 13,
+    "name": "Mocha Fudge",
+    "price": 550,
+    "image": "/images/image7.webp",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "Almond Joy",
+    "price": 480,
+    "image": "/images/image8.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "name": "Coconut Dream",
+    "price": 445,
+    "image": "/images/image9.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 16,
+    "name": "Pineapple Paradise",
+    "price": 465,
+    "image": "/images/image10.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 17,
+    "name": "Choco Lava",
+    "price": 525,
+    "image": "/images/image11.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "name": "Tiramisu Temptation",
+    "price": 610,
+    "image": "/images/image12.jpg",
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "name": "Berry Blast",
+    "price": 390,
+    "image": "/images/image13.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 20,
+    "name": "Walnut Wonder",
+    "price": 450,
+    "image": "/images/image14.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 21,
+    "name": "Honey Almond Bliss",
+    "price": 495,
+    "image": "/images/image15.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 22,
+    "name": "Rainbow Cake",
+    "price": 495,
+    "image": "/images/rainbow.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 23,
+    "name": "Strawberry Cake",
+    "price": 495,
+    "image": "/images/strawberry.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "name": "Tirmasu",
+    "price": 495,
+    "image": "/images/tirmasu.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 25,
+    "name": "Black Forest",
+    "price": 495,
+    "image": "/images/blackforest.webp",
+    "rating": 4.6
+  }
+]
